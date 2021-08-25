@@ -1,0 +1,29 @@
+/* Common */
+body {
+    padding: 10px;
+}
+.wrapper {
+    height: 50px;
+    line-height: 50px;
+    background: rgb(0, 255, 76);
+    background: radial-gradient(circle, rgba(0, 255, 76,1) 0%, rgba(187, 16, 255,1) 100%);
+}
+
+/* Header */
+header {
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+/* Main  */
+main {
+    border-right: 2px solid rgb(187, 16, 255);
+    border-left: 2px solid rgb(187, 16, 255);
+    padding: 20px 0px;
+}
+
+/* Footer */
+footer {
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
